@@ -26,5 +26,6 @@ class LinearSearch {
  searchElement = 7
  OUTPUT:
  Element found at index: 2
- 
+ searchElement = 10
+ output: Element not found
 */ 
